@@ -26,3 +26,9 @@ body{
 h1{
     color: white;
 }
+
+#sizeButton{
+    border-radius: 15%;
+    padding: 0.5em;
+    font-weight: 700;
+}
