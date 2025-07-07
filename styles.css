@@ -1,6 +1,9 @@
 body{
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(56, 56, 55);
 }
 
 .container{
@@ -17,4 +20,9 @@ body{
     height: 30px;
     border: 1px solid black;
     box-sizing: border-box;
+    background-color: white;
+}
+
+h1{
+    color: white;
 }
